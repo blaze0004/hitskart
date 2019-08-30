@@ -1,0 +1,40 @@
+[24-May-2015 18:40:06 UTC] PHP Fatal error:  Call to undefined function redirect() in /home/xddaishi/public_html/hitskart.com/mysites.php on line 4
+[07-Jun-2015 06:45:26 UTC] PHP Fatal error:  Call to undefined function hook_filter() in /home/xddaishi/public_html/hitskart.com/index.php on line 10
+[07-Jun-2015 07:08:11 UTC] PHP Fatal error:  Call to undefined function hook_filter() in /home/xddaishi/public_html/hitskart.com/index.php on line 10
+[14-Jun-2015 06:50:26 UTC] PHP Fatal error:  Call to a member function Query() on a non-object in /home/xddaishi/public_html/hitskart.com/ajax_check_lead.php on line 21
+[14-Jun-2015 06:50:56 UTC] PHP Fatal error:  Call to a member function Query() on a non-object in /home/xddaishi/public_html/hitskart.com/ajax_check_lead.php on line 21
+[14-Jun-2015 06:51:26 UTC] PHP Fatal error:  Call to a member function Query() on a non-object in /home/xddaishi/public_html/hitskart.com/ajax_check_lead.php on line 21
+[14-Jun-2015 06:51:57 UTC] PHP Fatal error:  Call to a member function Query() on a non-object in /home/xddaishi/public_html/hitskart.com/ajax_check_lead.php on line 21
+[14-Jun-2015 06:52:27 UTC] PHP Fatal error:  Call to a member function Query() on a non-object in /home/xddaishi/public_html/hitskart.com/ajax_check_lead.php on line 21
+[14-Jun-2015 06:52:57 UTC] PHP Fatal error:  Call to a member function Query() on a non-object in /home/xddaishi/public_html/hitskart.com/ajax_check_lead.php on line 21
+[14-Jun-2015 06:53:28 UTC] PHP Fatal error:  Call to a member function Query() on a non-object in /home/xddaishi/public_html/hitskart.com/ajax_check_lead.php on line 21
+[14-Jun-2015 06:53:58 UTC] PHP Fatal error:  Call to a member function Query() on a non-object in /home/xddaishi/public_html/hitskart.com/ajax_check_lead.php on line 21
+[14-Jun-2015 06:54:29 UTC] PHP Fatal error:  Call to a member function Query() on a non-object in /home/xddaishi/public_html/hitskart.com/ajax_check_lead.php on line 21
+[14-Jun-2015 06:54:59 UTC] PHP Fatal error:  Call to a member function Query() on a non-object in /home/xddaishi/public_html/hitskart.com/ajax_check_lead.php on line 21
+[14-Jun-2015 06:55:29 UTC] PHP Fatal error:  Call to a member function Query() on a non-object in /home/xddaishi/public_html/hitskart.com/ajax_check_lead.php on line 21
+[14-Jun-2015 06:55:59 UTC] PHP Fatal error:  Call to a member function Query() on a non-object in /home/xddaishi/public_html/hitskart.com/ajax_check_lead.php on line 21
+[14-Jun-2015 06:56:29 UTC] PHP Fatal error:  Call to a member function Query() on a non-object in /home/xddaishi/public_html/hitskart.com/ajax_check_lead.php on line 21
+[14-Jun-2015 06:56:59 UTC] PHP Fatal error:  Call to a member function Query() on a non-object in /home/xddaishi/public_html/hitskart.com/ajax_check_lead.php on line 21
+[14-Jun-2015 06:57:29 UTC] PHP Fatal error:  Call to a member function Query() on a non-object in /home/xddaishi/public_html/hitskart.com/ajax_check_lead.php on line 21
+[14-Jun-2015 06:57:59 UTC] PHP Fatal error:  Call to a member function Query() on a non-object in /home/xddaishi/public_html/hitskart.com/ajax_check_lead.php on line 21
+[14-Jun-2015 15:48:46 UTC] PHP Fatal error:  Call to a member function Query() on a non-object in /home/xddaishi/public_html/hitskart.com/ajax_check_lead.php on line 22
+[14-Jun-2015 15:49:16 UTC] PHP Fatal error:  Call to a member function Query() on a non-object in /home/xddaishi/public_html/hitskart.com/ajax_check_lead.php on line 22
+[14-Jun-2015 15:49:46 UTC] PHP Fatal error:  Call to a member function Query() on a non-object in /home/xddaishi/public_html/hitskart.com/ajax_check_lead.php on line 22
+[14-Jun-2015 15:50:16 UTC] PHP Fatal error:  Call to a member function Query() on a non-object in /home/xddaishi/public_html/hitskart.com/ajax_check_lead.php on line 22
+[14-Jun-2015 15:50:46 UTC] PHP Fatal error:  Call to a member function Query() on a non-object in /home/xddaishi/public_html/hitskart.com/ajax_check_lead.php on line 22
+[14-Jun-2015 15:58:03 UTC] PHP Fatal error:  Call to a member function Query() on a non-object in /home/xddaishi/public_html/hitskart.com/ajax_check_lead.php on line 22
+[14-Jun-2015 15:58:34 UTC] PHP Fatal error:  Call to a member function Query() on a non-object in /home/xddaishi/public_html/hitskart.com/ajax_check_lead.php on line 22
+[14-Jun-2015 15:59:08 UTC] PHP Fatal error:  Call to a member function Query() on a non-object in /home/xddaishi/public_html/hitskart.com/ajax_check_lead.php on line 22
+[14-Jun-2015 15:59:35 UTC] PHP Fatal error:  Call to a member function Query() on a non-object in /home/xddaishi/public_html/hitskart.com/ajax_check_lead.php on line 22
+[14-Jun-2015 16:00:06 UTC] PHP Fatal error:  Call to a member function Query() on a non-object in /home/xddaishi/public_html/hitskart.com/ajax_check_lead.php on line 22
+[14-Jun-2015 16:00:36 UTC] PHP Fatal error:  Call to a member function Query() on a non-object in /home/xddaishi/public_html/hitskart.com/ajax_check_lead.php on line 24
+[14-Jun-2015 16:07:07 UTC] PHP Fatal error:  Call to a member function Query() on a non-object in /home/xddaishi/public_html/hitskart.com/ajax_check_lead.php on line 24
+[14-Jun-2015 16:07:37 UTC] PHP Fatal error:  Call to a member function Query() on a non-object in /home/xddaishi/public_html/hitskart.com/ajax_check_lead.php on line 24
+[14-Jun-2015 16:08:07 UTC] PHP Fatal error:  Call to a member function Query() on a non-object in /home/xddaishi/public_html/hitskart.com/ajax_check_lead.php on line 24
+[14-Jun-2015 16:08:37 UTC] PHP Fatal error:  Call to a member function Query() on a non-object in /home/xddaishi/public_html/hitskart.com/ajax_check_lead.php on line 24
+[14-Jun-2015 16:09:07 UTC] PHP Fatal error:  Call to a member function Query() on a non-object in /home/xddaishi/public_html/hitskart.com/ajax_check_lead.php on line 24
+[27-Jun-2015 18:32:40 UTC] PHP Fatal error:  Call to undefined function get_data_curl() in /home/xddaishi/public_html/hitskart.com/checking.php on line 10
+[27-Jun-2015 18:34:01 UTC] PHP Fatal error:  Call to undefined function get_data_curl() in /home/xddaishi/public_html/hitskart.com/checking.php on line 10
+[27-Jun-2015 18:34:02 UTC] PHP Fatal error:  Call to undefined function get_data_curl() in /home/xddaishi/public_html/hitskart.com/checking.php on line 10
+[02-Jul-2015 18:54:17 UTC] PHP Fatal error:  Call to undefined function redirect() in /home/xddaishi/public_html/hitskart.com/offer.php on line 4
+[03-Jul-2015 16:02:33 UTC] PHP Fatal error:  Call to undefined function redirect() in /home/xddaishi/public_html/hitskart.com/offer.php on line 4
